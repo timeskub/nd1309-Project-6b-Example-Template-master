@@ -29,7 +29,7 @@ contract RetailerRole {
 
   // Define a function 'addRetailer' that adds this role
   function addRetailer(address account) public onlyRetailer {
-    _addRetailer(msg.sender);
+    _addRetailer(account);
   }
 
   // Define a function 'renounceRetailer' to renounce this role

@@ -1,0 +1,9 @@
+Requirement 1: Deploy smart contract on a public test network
+
+Rinkeby is outdated, so I chose Sepolia instead.
+
+creating contract txn  
+https://sepolia.etherscan.io/tx/0xae70d52a12b46adc4654e7837b438dc2857b5bb1a72f889e0beef120db3520fd
+
+contract address
+https://sepolia.etherscan.io/address/0x93e212819703f2fb547c0434cc144f51c4959ad0
