@@ -1,0 +1,9 @@
+contract address on Sepolia Testnet
+https://sepolia.etherscan.io/address/0x93e212819703f2fb547c0434cc144f51c4959ad0
+
+libraries
+Truffle v5.6.3 (core: 5.6.3)
+Ganache v7.4.4
+Solidity - 0.4.24 (solc-js)
+Node v16.15.0
+Web3.js v1.7.4
